@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.Material",
+  "_name": "flash",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "70777825-7967-4a13-8358-16447025c2b1"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_NOISE_TEXTURE": true,
+        "USE_NOISE_MOVE": true,
+        "USE_ALPHA_TEST": false,
+        "USE_TEXTURE_MOVE": true
+      },
+      "props": {
+        "noiseMoveSpeed": {
+          "__type__": "cc.Vec2",
+          "x": 0.2,
+          "y": 0.2
+        },
+        "textureMoveSpeed": {
+          "__type__": "cc.Vec2",
+          "x": 0.2,
+          "y": 0.1
+        },
+        "mainTexture": {
+          "__uuid__": "0828dcc2-56cc-4cbd-9aac-47e437959201"
+        },
+        "noiseTexture": {
+          "__uuid__": "06bf3fa3-ea2d-46cb-bf48-504516336e2b"
+        }
+      }
+    }
+  }
+}

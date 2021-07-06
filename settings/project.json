@@ -1,0 +1,50 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "DragonBones",
+    "3D Physics/Builtin"
+  ],
+  "group-list": [
+    "default",
+    "bg",
+    "capture"
+  ],
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "preview-port": 7456,
+  "clear-simulator-cache": true,
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "last-module-event-record-time": 1621421632896,
+  "start-scene": "cad9dec0-6479-45b3-89b2-c66c80d4a15f"
+}

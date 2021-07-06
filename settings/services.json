@@ -1,0 +1,26 @@
+{
+	"game": {
+		"name": "打造强化",
+		"appid": "675285245",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "675285245",
+			"services": [
+				{
+					"service_id": "272",
+					"enable": false
+				},
+				{
+					"service_id": "278",
+					"enable": false
+				},
+				{
+					"service_id": "235",
+					"enable": false
+				}
+			]
+		}
+	]
+}

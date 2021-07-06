@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.Material",
+  "_name": "glow_inner",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "c4912b22-46ca-4674-b7d4-d3073e8d6b7e"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "SHOW_INNER_GLOW": true
+      },
+      "props": {
+        "glowRange": 20,
+        "glowColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        },
+        "glowThreshold": 0.1,
+        "spriteWidth": 500,
+        "spriteHeight": 500
+      }
+    }
+  }
+}

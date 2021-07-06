@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.Material",
+  "_name": "lighting",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "a3c5e6f8-357e-4cd6-a230-54e890e7e5e8"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "INPUT_IS_GAMMA": false
+      },
+      "props": {
+        "time": 11.6,
+        "resolution": {
+          "__type__": "cc.Vec2",
+          "x": 1,
+          "y": 0.5
+        }
+      }
+    }
+  }
+}

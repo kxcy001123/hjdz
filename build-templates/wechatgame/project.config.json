@@ -1,0 +1,36 @@
+{
+	"description": "项目配置文件。",
+	"cloudfunctionRoot": "cloudfunction/",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": false,
+		"newFeature": false
+},
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wxf82a9c2f04a26729",
+	"projectname": "hjdz",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+				"current": -1,
+				"list": []
+		},
+		"conversation": {
+				"current": -1,
+				"list": []
+		},
+		"game": {
+				"currentL": -1,
+				"list": [],
+				"current": -1
+		},
+		"miniprogram": {
+				"current": -1,
+				"list": []
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.Material",
+  "_name": "fluaxy2",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "96fcad5d-4ba5-4b73-9344-f1e9d255ca05"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "avv": 16.1,
+        "RippleColor": {
+          "__type__": "cc.Color",
+          "r": 255,
+          "g": 254,
+          "b": 254,
+          "a": 255
+        },
+        "speed": 3
+      },
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_ALPHA_TEST": false
+      }
+    }
+  }
+}

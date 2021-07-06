@@ -1,0 +1,15 @@
+{
+  "__type__": "cc.Material",
+  "_name": "wate_effect_material",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "2588b366-de5e-4991-979d-b122096d9a93"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {}
+    }
+  }
+}
